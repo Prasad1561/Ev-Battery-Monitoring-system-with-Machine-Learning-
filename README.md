@@ -34,5 +34,4 @@ A smart system that monitors electric vehicle battery parameters and uses machin
 - [Team Member 3]
 - [Team Member 4]
 
-## 📸 Screenshots
-_Add system images, circuit diagram, or result screenshots here later_
+
